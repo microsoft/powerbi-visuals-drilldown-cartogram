@@ -1,4 +1,5 @@
 # Drilldown cartogram
+[![Build Status](https://travis-ci.org/Microsoft/powerbi-visuals-drilldown-cartogram.svg?branch=master)](https://travis-ci.org/Microsoft/powerbi-visuals-drilldown-cartogram)
 
 > Displays a hierarchical map set as a circle for each location, with size/color from specified values
 
