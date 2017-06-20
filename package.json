@@ -1,5 +1,5 @@
 {
-  "name": "powerbi-visuals-drilldowncartogram",
+  "name": "powerbi-visuals-drilldown-cartogram",
   "version": "1.0.0",
   "description": "Map draws cartogram (circles) for each location, User can control size and color of circle to represents two different dimension together. This visual supports muli-level hierachy (Maximum of 3 levels).",
   "repository": {
