@@ -966,7 +966,7 @@ module powerbi.extensibility.visual {
                                 }
                             }
                         })
-                        key = _.chain(allkeys).countBy().pairs().max(_.last).head().value()
+                        key = _.chain(allkeys).countBy().toPairs().max(_.last).head().value()
                     }
 
                     // Filter maps based on selected geography | Default: Entire level wise map
