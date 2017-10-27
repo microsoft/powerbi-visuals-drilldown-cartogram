@@ -2,14 +2,14 @@
   "visual": {
     "name": "drilldownCartogram",
     "displayName": "Drilldown cartogram",
-    "guid": "drilldownCartogramD5E1077C70074FFCB26AFC2A636614BF",
+    "guid": "drilldownCartogramD5E1077C70074FFCB26AFC2A636618BF",
     "visualClassName": "Visual",
     "version": "1.0.0",
     "description": "Map draws cartogram (circles) for each location, User can control size and color of circle to represents two different dimension together. This visual supports muli-level hierachy (Maximum of 3 levels).",
     "supportUrl": "https://aka.ms/customvisualscommunity",
     "gitHubUrl": "https://github.com/Microsoft/powerbi-visuals-drilldown-cartogram"
   },
-  "apiVersion": "1.6.0",
+  "apiVersion": "1.7.0",
   "author": {
     "name": "Microsoft",
     "email": "pbicvsupport@microsoft.com"
